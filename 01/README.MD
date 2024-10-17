@@ -12,4 +12,4 @@
 &emsp;&emsp;&emsp; **t = f + s**\
 &emsp;&emsp;&emsp; **f = s & s = t**\
 *Step 07* : **Increment i by 1**\
-*Step 08* : **Stop**\
+*Step 08* : **Stop**
