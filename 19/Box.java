@@ -26,7 +26,5 @@ public class Box extends Applet implements ActionListener
   }
  }
 
-
-
 /*<applet code="Box.class" width=300 height=300>
 </applet>*/
